@@ -1,0 +1,19 @@
+.content{
+	margin-top: 20px;
+	display: flex;
+}
+.content-left{
+	width: 80%;
+}
+.content-right{
+	width: 20%;
+}
+.finalist{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.display{
+	display: grid;
+	grid-template-rows: auto auto auto; 
+}
