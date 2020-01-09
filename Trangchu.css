@@ -1,0 +1,11 @@
+.background{
+	background-image: url(bacground.png);
+	background-size: cover;
+	height: 100%;
+}
+.display{
+	margin-top: 10px;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	justify-content: space-between;
+}
